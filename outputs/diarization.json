@@ -1,0 +1,79 @@
+[
+    {
+        "speaker": "Target",
+        "start": 0.0,
+        "end": 0.21,
+        "text": "",
+        "confidence": 0.5
+    },
+    {
+        "speaker": "Speaker_B",
+        "start": 0.22499999999999998,
+        "end": 0.84,
+        "text": "Hi.",
+        "confidence": 0.9
+    },
+    {
+        "speaker": "Target",
+        "start": 0.87,
+        "end": 3.045,
+        "text": "Testing the speaker derision system I hope.",
+        "confidence": 0.9
+    },
+    {
+        "speaker": "Speaker_B",
+        "start": 3.06,
+        "end": 3.855,
+        "text": "This works great.",
+        "confidence": 0.9
+    },
+    {
+        "speaker": "Target",
+        "start": 3.9299999999999997,
+        "end": 6.944999999999999,
+        "text": "Let's see how well the model detects different wires.",
+        "confidence": 0.9
+    },
+    {
+        "speaker": "Speaker_B",
+        "start": 7.755,
+        "end": 7.89,
+        "text": "",
+        "confidence": 0.5
+    },
+    {
+        "speaker": "Target",
+        "start": 7.949999999999999,
+        "end": 13.62,
+        "text": "Everybody is so afraid of a monotone voice without realizing a monotone voice comes from a monotone voice.",
+        "confidence": 0.9
+    },
+    {
+        "speaker": "Speaker_B",
+        "start": 14.295,
+        "end": 14.34,
+        "text": "",
+        "confidence": 0.5
+    },
+    {
+        "speaker": "Target",
+        "start": 14.535,
+        "end": 14.58,
+        "text": "",
+        "confidence": 0.5
+    },
+    {
+        "speaker": "Speaker_B",
+        "start": 14.61,
+        "end": 14.774999999999999,
+        "text": "",
+        "confidence": 0.5
+    },
+    {
+        "speaker": "Target",
+        "start": 14.879999999999999,
+        "end": 17.22,
+        "text": "Hello, this is Bavia, this is the Y sample for...",
+        "confidence": 0.9
+    }
+]

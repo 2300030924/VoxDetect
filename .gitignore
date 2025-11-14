@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.so
+*.zip
+*.pt
+models/
+cache/
+*.log
